@@ -1,0 +1,7 @@
+alias ll='exa -la'
+alias awsif='export AWS_PROFILE=if'
+alias history='history -500'
+alias cat='bat'
+alias d='docker'
+alias dc='docker compose'
+alias dce='docker compose exec'

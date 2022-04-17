@@ -1,0 +1,7 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+cask "google-chrome"
+cask "iterm2"
+cask "slack"
+cask "visual-studio-code"
